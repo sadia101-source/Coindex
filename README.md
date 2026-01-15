@@ -1,6 +1,5 @@
-# JS Project.
+# Command line interface written in Node.js to check cryptocurrency prices#
 
-## Command line interface written in Node.js to check cryptocurrency prices#
 ### Register an API key at https://nomics.com
 
 ## Help & Commands
