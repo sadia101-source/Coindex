@@ -1,4 +1,4 @@
-# Command line interface written in Node.js to check cryptocurrency prices#
+# Command line interface written in Node.js to check cryptocurrency prices
 
 ### Register an API key at https://nomics.com
 
@@ -21,6 +21,7 @@ coindex check --coin=BTC,ETH
 
 ## Choose Currency (Default: USD)
 coindex check --cur=EUR
+
 Version
 1.0.0
 
